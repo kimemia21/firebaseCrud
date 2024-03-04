@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "931370698779",
+    "firebase_url": "https://database-firebase-bb2bb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "database-firebase-bb2bb",
+    "storage_bucket": "database-firebase-bb2bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931370698779:android:9bf7214b7299ccb228d0be",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD5cZVHi_CCJU4l1JNQiQ5yBmYyLCo5Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
